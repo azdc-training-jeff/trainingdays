@@ -6,7 +6,7 @@
 
   <p>
     <sub>Built with ❤️ by the
-      <a href="https://github.com/CSA-OCP-GER">Microsoft Cloud Solution Architects from Germany</a>
+      <a href="https://github.com/CSA-OCP-GER">Microsoft Cloud Solution Architects from Germany/CSU</a>
     </sub>
   </p>
 
